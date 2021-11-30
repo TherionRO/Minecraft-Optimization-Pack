@@ -1,3 +1,5 @@
+This is a ALPHA VERSION,meaning that all the mods here are in beta or experimental phase,I tested them and they are working pretty good on 1.18 release.Make sure to backup your worlds before loading them with this alpha version of the Optimization Pack.
+
 Big credits to :
 Sodium - https://github.com/CaffeineMC/sodium-fabric
 Starlight - https://github.com/PaperMC/Starlight
