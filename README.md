@@ -2,7 +2,7 @@
 
 # Download Optimization Pack :
 Always download the Optimization Pack from the official CurseForge website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
-https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack-1-18-1
+https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
 
 # Minecraft Optimization Pack
 Minecraft Optimization Pack is a collection of mods (/modpack) with the best mods for performance&optimization,always updated in the newest versions of Minecraft OP(Optimization Pack)
