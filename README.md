@@ -13,3 +13,6 @@ https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
 # Compatibility
  The optimization pack supports all kind of PCs,from low end to high end.
  
+# Notes :
+ For alpha & beta builds,check out the project on CurseForge or download the builds from this repo in "Unlocked Profile" folder!
+ 
