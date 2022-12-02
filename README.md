@@ -15,15 +15,24 @@ https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
  
 # Notes :
  1.For alpha & beta builds,check out the project on CurseForge or download the builds from this repo in "Unlocked Profile" folder!
+ 
  2.You can unlock the profile inside curseforge in the profile settings,by ticking the allow content management for this profile
  
 # Performance Tweaks :
 -Disable V-Sync in settings,and move the FPS slider to Unlimited to get the maximum FPS.
+
 -Lower down your render distance(6-8 is great)
+
 -Lower down your graphics settings to fast
+
 -Disable all particles and animations(and enable the ones you want)
+
 -Allocate more or less ram in minecraft,test minecraft with different amounts of RAM and look what's the best setup for you
+
 -If you are using an Nvidia GPU,go into nvidia control panel and turn on High Performance Mode(This option is visible to laptop users)
+
 -Stop using shaders(if you are using one)
+
 -Stop using high quality texture packs(Textures packs made for performance will make 0 difference for performance,atleast that's the case for me)
+
  
