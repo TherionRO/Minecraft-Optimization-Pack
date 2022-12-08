@@ -12,11 +12,15 @@ https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
  
 # Compatibility
  The optimization pack supports all kind of PCs,from low end to high end.
+ Works on Linux,Windows & MacOS (And other platforms that supports minecraft)
  
 # Notes :
  1.For alpha & beta builds,check out the project on CurseForge or download the builds from this repo in "Unlocked Profile" folder!
  
  2.You can unlock the profile inside curseforge in the profile settings,by ticking the allow content management for this profile
+ 
+ Current Status of Optimization Pack : Rolling release
+ Owner & Maintainer : TherionRO
  
 # Performance Tweaks :
 -Disable V-Sync in settings,and move the FPS slider to Unlimited to get the maximum FPS.
