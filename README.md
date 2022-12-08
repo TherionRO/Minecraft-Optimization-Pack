@@ -20,6 +20,7 @@ https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
  2.You can unlock the profile inside curseforge in the profile settings,by ticking the allow content management for this profile
  
  Current Status of Optimization Pack : Rolling release
+ 
  Owner & Maintainer : TherionRO
  
 # Performance Tweaks :
