@@ -8,7 +8,7 @@ Always download the Optimization Pack from the official CurseForge website,this 
 https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
 
 # Manually Install :
- Watch the tutorial here : https://www.youtube.com/watch?v=YZKHCFSL3fs&ab_channel=TherionRO
+ Watch the tutorial here : https://www.youtube.com/watch?v=YZKHCFSL3fs&ab_channel=TherionRO (Kinda outdated)
  
 # Compatibility
  The optimization pack supports all kind of PCs,from low end to high end.
