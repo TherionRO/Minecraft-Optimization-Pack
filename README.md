@@ -24,20 +24,9 @@ https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
  Owner & Maintainer : TherionRO
  
 # Performance Tweaks :
--Disable V-Sync in settings,and move the FPS slider to Unlimited to get the maximum FPS.
+Visit the Optimization Pack Wiki to get the best performance and optimizations for your minecraft and operating system.
 
--Lower down your render distance(6-8 is great)
+[Click here to get redirected to the OP Wiki (Current Page)](https://github.com/TherionRO/Minecraft-Optimization-Pack/wiki)
 
--Lower down your graphics settings to fast
-
--Disable all particles and animations(and enable the ones you want)
-
--Allocate more or less ram in minecraft,test minecraft with different amounts of RAM and look what's the best setup for you
-
--If you are using an Nvidia GPU,go into nvidia control panel and turn on High Performance Mode(This option is visible to laptop users)
-
--Stop using shaders(if you are using one)
-
--Stop using high quality texture packs(Textures packs made for performance will make 0 difference for performance,atleast that's the case for me)
 
  
