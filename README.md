@@ -26,7 +26,7 @@ https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
 # Performance Tweaks :
 Visit the Optimization Pack Wiki to get the best performance and optimizations for your minecraft and operating system.
 
-[Click here to get redirected to the OP Wiki (Current Page)](https://github.com/TherionRO/Minecraft-Optimization-Pack/wiki)
+[Click here to get redirected to the OP Wiki](https://github.com/TherionRO/Minecraft-Optimization-Pack/wiki)
 
 
  
