@@ -17,7 +17,7 @@ https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
 # Notes :
  1.For alpha & beta builds,check out the project on CurseForge or download the builds from this repo in "Unlocked Profile" folder!
  
- 2.You can unlock the profile inside curseforge in the profile settings,by ticking the allow content management for this profile
+ 2.You can unlock the profile inside curseforge in the profile settings,by ticking the allow content management for this profile.By doing this you can also manually update all the mods without waiting for a new Optimization Pack version.
  
  Current Status of Optimization Pack : Rolling release
  
