@@ -5,7 +5,8 @@ Optimization Pack is a open-source and lightweight modification for the official
 
 # Download Optimization Pack :
 Always download the Optimization Pack from the official CurseForge website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
-https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack
+
+[Download Optimization Pack for Minecraft[Curseforge]](https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack)
 
 # Manually Install :
  Watch the tutorial here : https://www.youtube.com/watch?v=YZKHCFSL3fs&ab_channel=TherionRO (Kinda outdated)
