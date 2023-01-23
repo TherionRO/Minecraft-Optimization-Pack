@@ -10,7 +10,7 @@ Click on a directory with the community build of your choice,then click on Build
 
 # Safety Guaranteed
 
-Community Builds are only accepted from pull requests,and they are tested for safety and stability before accepting the pull request.Only mods from curseforge and modrinth are accepted.Mods from other sources should be listed in the pull request and those will be verified manually.
+Community Builds are only accepted from pull requests,and they are tested for safety and stability before accepting the pull request.Only mods from curseforge and modrinth are accepted.Mods from other sources should be listed in the pull request and those will be verified manually.Updating your community build will require another pull request in your Community Build Directory,and the verification process will start again for the updated version.
 
 
  
