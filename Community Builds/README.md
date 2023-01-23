@@ -1,4 +1,4 @@
-<img src="https://github.com/TherionRO/Minecraft-Optimization-Pack/blob/main/GithubFolder/Assets/op3.png?raw=true"/>
+<img src="https://github.com/TherionRO/Minecraft-Optimization-Pack/blob/main/GithubFolder/Assets/communitybuilds_banner.png?raw=true"/>
 
 # Community Builds :
 Community Builds are modpacks builded on top of Optimization Pack by the community.Those builds are not the original Optimization Pack and the experience may be totally different compared to OP.
