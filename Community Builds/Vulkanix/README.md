@@ -1,6 +1,7 @@
 <img src="https://github.com/DiasporaLive/Vulkanix/blob/main/Community%20Builds/Vulkanix/github-assets/vulkanixlogo.png?raw=true"/>
 
 # Vulkanix :
-Optimization Pack is a open-source and lightweight modification for the official Minecraft,supporting all versions.With OP,you will get way more FPS,even 10X sometimes,and there are a ton of minecraft bugs fixed in this modification.You won't get banned on any server for using this,performance boost will also work on servers,not only singleplayer-side. (This modpack may contain some proprietary mods!)
+Vulkanix its a community build of Optimization Pack with vulkan as the render engine instead of OpenGL/Sodium,but with most of Optimization Pack bugs and fixes mods.
+Credits : (Vulkan Renderer)[https://www.curseforge.com/minecraft/mc-mods/vulkanmod/files]
 
  
