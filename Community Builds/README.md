@@ -8,5 +8,9 @@ Click on a directory with the community build of your choice,then click on Build
 
 [Download Original Optimization Pack for Minecraft[Curseforge]](https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack)
 
+# Safety Guaranteed
+
+Community Builds are only accepted from pull requests,and they are tested for safety and stability before accepting the pull request.Only mods from curseforge and modrinth are accepted.Mods from other sources should be listed in the pull request and those will be verified manually.
+
 
  
