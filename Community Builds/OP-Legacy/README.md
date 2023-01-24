@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="https://github.com/DavidescuEMI/Minecraft-Optimization-Pack-LE/blob/main/Community%20Builds/OP-Legacy/github-assets/banner.png?raw=true"/>
 
 # ModPackName :
 ModPack Description
