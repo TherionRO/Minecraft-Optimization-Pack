@@ -1,4 +1,4 @@
-<img src="banner.png link here. Copy and paste the link from your FORK!Only 820x220 ACCEPTED !!!"/>
+<img src=""/>
 
 # ModPackName :
 ModPack Description
