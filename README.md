@@ -1,7 +1,7 @@
 <img src="https://github.com/TherionRO/Minecraft-Optimization-Pack/blob/main/GithubFolder/Assets/op3.png?raw=true"/>
 
 # Optimization Pack :
-Optimization Pack is a open-source and modular modpack for minecraft.With OP,you will get way more FPS,even 10X sometimes,and there are a ton of minecraft bugs fixed in this modification.You won't get banned on any server for using this,performance boost will also work on servers,not only singleplayer-side.
+Optimization Pack is a open-source and modular modpack for minecraft.This modpack was created too fix minecraft's lag problems,by optimizing the game and fixing the bugs mojang could not in 10 years,with OP your game will be smoother,faster and more responsive,sometimes you may get more than 10X FPS compared to the vanilla(base game),performance boost will also work on servers,not only singleplayer-side.Usually you won't get banned on any servers by using OP,but check the server rules to see if any mods are blacklisted that are present in here,if that's the case remove the mod and enjoy the game!
 
 # Download Optimization Pack :
 Always download the Optimization Pack from the official CurseForge website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
