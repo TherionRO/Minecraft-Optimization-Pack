@@ -4,9 +4,9 @@
 Optimization Pack is a open-source and modular modpack for minecraft.This modpack was created to fix minecraft's lag problems,by optimizing the game and fixing the bugs mojang could not in 10 years,with OP your game will be smoother,faster and more responsive,sometimes you may get more than 10X FPS compared to the vanilla(base game),performance boost will also work on servers,not only local-side.Usually you won't get banned on any servers by using OP,but check the server rules to see if any mods are blacklisted that are present in here,if that's the case remove the mod and enjoy the game!
 
 # Download Optimization Pack :
-Always download the Optimization Pack from the official CurseForge website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
+Always download the Optimization Pack from the official Modrinth website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
 
-[Download Optimization Pack for Minecraft[Curseforge]](https://www.curseforge.com/minecraft/modpacks/minecraft-optimization-pack)
+[Download Optimization Pack for Minecraft[Modrinth]](https://modrinth.com/modpack/op-mc/versions))
 
 # Manually Install :
  Watch the tutorial here : https://www.youtube.com/watch?v=YZKHCFSL3fs&ab_channel=TherionRO (Kinda outdated)
