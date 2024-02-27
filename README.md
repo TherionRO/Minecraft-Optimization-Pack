@@ -6,7 +6,7 @@ Optimization Pack is a open-source and modular modpack for minecraft.This modpac
 # Download Optimization Pack :
 Always download the Optimization Pack from the official Modrinth website,this modpack is 100% free,do not pay for it and make sure to report sellers of this modpack!
 
-[Download Optimization Pack for Minecraft[Modrinth]](https://modrinth.com/modpack/op-mc/versions))
+[Download Optimization Pack for Minecraft[Modrinth]](https://modrinth.com/modpack/op-mc/versions)
 
 # Manually Install :
  Watch the tutorial here : https://www.youtube.com/watch?v=YZKHCFSL3fs&ab_channel=TherionRO (Kinda outdated)
