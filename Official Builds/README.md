@@ -10,3 +10,5 @@ Choose Optimization Pack Vulkan Edition if you want the absolute best performanc
 
 ## 1.12.2-LTS
 Choose Optimization Pack 1.12.2-LTS if you wanna have the best performance and bug fixes in 1.12.2, comes with newer Java versions out of the box using Cleanroom for better support with bleeding-edge hardware. Stability may vary depending on your operating system and hardware
+
+# Rankings
