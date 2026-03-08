@@ -14,7 +14,7 @@ Choose Optimization Pack 1.12.2-LTS if you wanna have the best performance and b
 # Rankings
 | Editions | Performance | Stability | Compatibility |
 |--------------|---------------|--------------|---------------|
-| Stable | 7/10  | 9/10 | 10/10  |
+| Stable | 7/10  | 10/10 | 10/10  |
 | Rolling/Unstable | 8/10  | 7/10 | 9/10  |
 | Vulkan Edition | 10/10  | 10/10 | 7/10  |
 | 1.12.2-LTS | 10/10  | 8/10 | 9/10  |
